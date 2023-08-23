@@ -11,6 +11,7 @@ export default function Stars({star}) {
       <h2>{pro.nationaity}</h2>
       </Link>
     </aside>
+    
   ))
   return (
     <section className="grid grid-cols-3 gap-2">
