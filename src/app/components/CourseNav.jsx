@@ -7,6 +7,7 @@ export default function CourseNav() {
         <ul>
             <Link href='/course/frontend'>
             <li>frontend</li>
+            
             </Link>
             <Link href='/course/backend'>
             <li>backend</li>
